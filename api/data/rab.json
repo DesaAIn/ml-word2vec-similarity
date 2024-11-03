@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "items": [
+      "kursi",
+      "meja",
+      "pensil",
+      "kertas",
+      "buku",
+      "penghapus",
+      "spidol",
+      "pen",
+      "penggaris"
+    ],
+    "totals": [67000, 39000, 23000, 76000, 287000, 64000, 93800, 20934, 37400]
+  },
+  {
+    "id": 2,
+    "items": [
+      "komputer",
+      "laptop",
+      "proyektor",
+      "papan tulis",
+      "pulpen",
+      "buku catatan"
+    ],
+    "totals": [1200000, 15000000, 5000000, 75000, 15000, 60000]
+  }
+]
